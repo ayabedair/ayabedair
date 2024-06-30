@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Aya Bedair</h1>
 <h3 align="center">A student who is passionate about Embedded Systems</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
+<img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmtuZDB1dzNnMDB0ZzN2cmg4Z250ZDBzbWlnbXJqOTBhbnZya29iOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif">
 
 - 📫 How to reach me **ayabedair77@gmail.com**
 
