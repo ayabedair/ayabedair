@@ -1,6 +1,5 @@
 
 <h1 align="center">Hi 👋, I'm Aya Bedair</h1>
-<h3 align="center">A student who is passionate about Embedded Systems</h3>
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmtuZDB1dzNnMDB0ZzN2cmg4Z250ZDBzbWlnbXJqOTBhbnZya29iOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif">
 
 - 📫 How to reach me **ayabedair77@gmail.com**
@@ -61,16 +60,7 @@
 
 <p><br><br></p>
 <p></p>
-<p></p>
-<p><br><br></p>
-<p></p>
-<p></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayabedair&show_icons=true&locale=en&layout=compact" alt="ayabedair" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayabedair&show_icons=true&locale=en" alt="ayabedair" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayabedair&" alt="ayabedair" /></p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayabedair&label=Profile%20views&color=0e75b6&style=flat" alt="ayabedair" /> </p>
 
