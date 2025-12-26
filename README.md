@@ -68,8 +68,3 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gcc/gcc-original.svg" alt="gcc" width="40" height="40"/>
   </a>
 </p>
-
-<p><br><br></p>
-<p></p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayabedair&show_icons=true&locale=en&layout=compact" alt="ayabedair" /></p>
